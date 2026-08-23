@@ -1,2 +1,2 @@
 # Nascente
- Como ensinar um computador a reconhecer estrelas recém-nascidas — projeto NASCENTE, UFPR
+ Identificação de estrelas jovens (YSOs) com machine learning — UFPR, Mestrado em Ciência de Dados
